@@ -1,0 +1,15 @@
+{
+	"name": "pgspy",
+	"version": "0.0.1",
+	"description": "Monitors PostgreSQL databases for long-running queries.",
+	"license": "MIT",
+	"dependencies": {
+		"pg": "*",
+		"q": "*"
+	},
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-contrib-jshint": "*",
+		"grunt-jsbeautifier": "*"
+	}
+}
