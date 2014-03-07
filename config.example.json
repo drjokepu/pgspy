@@ -1,3 +1,3 @@
 {
-	"pgConnrectionString": "postgres://tamas@alpha-db/postgres"
+	"pgConnrectionString": "postgres://postgres@localhost/postgres"
 }

@@ -4,6 +4,7 @@
 	"description": "Monitors PostgreSQL databases for long-running queries.",
 	"license": "MIT",
 	"dependencies": {
+		"sqlite-fts": "git+https://github.com/mscdex/node-sqlite-fts.git#master",
 		"pg": "*",
 		"q": "*"
 	},
